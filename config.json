@@ -1,0 +1,8 @@
+{
+  "two_captcha_api_key": "",
+  "threads": 5,
+  "turnstile_sitekey": "0x4AAAAAABA4JXCaw9E2Py-9",
+  "turnstile_page_url": "https://testnet.megaeth.com/",
+  "megaeth_api_url": "https://carrot.megaeth.com/claim",
+  "rpc_endpoint": "https://carrot.megaeth.com/rpc"
+}
